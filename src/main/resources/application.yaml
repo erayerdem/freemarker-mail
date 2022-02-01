@@ -1,0 +1,7 @@
+notification:
+  mail:
+    uri: smtp.gmail.com:587
+    username: sameterayerdm@gmail.com
+    password: 
+    from: sameterayerdm@gmail.com
+    content-type: text/html
